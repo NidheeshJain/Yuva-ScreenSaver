@@ -1,6 +1,6 @@
 html {
     height: 100%;
-    background-color:black;
+    background-image : radial-gradient(circle, white 0px, #000 300px);;
     overflow: hidden;
   }
   
